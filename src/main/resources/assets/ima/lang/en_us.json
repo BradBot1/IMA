@@ -1,0 +1,12 @@
+{
+  "spell.ima.hunger": "Hunger Restoration",
+  "spell.ima.hunger.guide": "Cast to replenish hunger.",
+  "ui.ima.hunger": "%d Hunger",
+  "spell.ima.extinguish": "Extinguish",
+  "spell.ima.extinguish.guide": "Instantly extinguish an entity.",
+  "spell.ima.safespace": "Safe Space",
+  "spell.ima.safespace.guide": "Get everyone out of your bubble.",
+  "ui.ima.safespace.resist": "%d cannot be excluded from your safe space!",
+  "spell.ima.cooldownless": "Cooldown Reduction",
+  "spell.ima.cooldownless.guide": "Reset your cooldowns."
+}
